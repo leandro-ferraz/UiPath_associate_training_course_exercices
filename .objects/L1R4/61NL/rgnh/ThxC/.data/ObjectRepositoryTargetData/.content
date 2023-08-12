@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FDAgKJONrkmgdnutz_Jj4A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="ArrowButton" DesignTimeRectangle="1536, 850, 17, 18" DesignTimeScaleFactor="1" ElementType="ArrowButton" FriendlyName="'msedge.exe ACME'" Guid="f569f0f1-7515-4a8d-b01b-51698f402768" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Add Account' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3b46ab3a2c80962007bb3bf1fc8ede4c.png" xmlns="">0oeOb9-W_ekaPTLCfltK4_A</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "k-8K7T6eUk2wdjl0E4O0PA",
+  "Reference": "CVGOPYYeTE-i3hzl9wQQTA/k-8K7T6eUk2wdjl0E4O0PA",
+  "ParentRef": "CVGOPYYeTE-i3hzl9wQQTA/rgnheqhyFkGZQhMFmvdy1A",
+  "Name": "Add Account",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-08-05T18:31:54.2224543Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-08-05T18:31:54.2224543Z"
+}
