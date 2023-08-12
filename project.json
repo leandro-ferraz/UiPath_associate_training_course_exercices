@@ -50,10 +50,18 @@
     "fileInfoCollection": [
       {
         "editingStatus": "InProgress",
-        "testCaseId": "5e059574-6dd6-4c61-bd13-4da8cf09a94a",
+        "testCaseId": "1f151b7f-5b84-4f0e-877f-b18a8a150fed",
+        "dataVariationFilePath": ".variations\\Results_Sheet1.json",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCase.xaml"
+        "fileName": "RPA testing with studio\\DDTestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "ee36446b-c638-42d5-be33-9e55c5fe030e",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "RPA testing with studio\\TestCase.xaml"
       }
     ],
     "modernBehavior": true
